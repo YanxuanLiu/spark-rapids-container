@@ -42,5 +42,8 @@ jobs:
             *.sh,
             Databricks/scripts/monit,
             Databricks/webterminal/webTerminalBashrc,
-            *.yml
+            *.yml,
+            *.yaml,
+            *.py,
+            *.properties
       
